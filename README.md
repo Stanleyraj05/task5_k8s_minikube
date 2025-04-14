@@ -44,11 +44,6 @@ Deploy and manage applications in a Kubernetes cluster using Minikube.
 10. **Rolled Back the Deployment (if needed)**:
    ```bash
    kubectl rollout undo deployment myapp-deployment
-<img width="1440" alt="Screenshot 2025-04-14 at 8 17 21 PM" src="https://github.com/user-attachments/assets/62b450d5-4490-4533-ba51-8d8ff6b7b007" />
-<img width="1440" alt="Screenshot 2025-04-14 at 8 17 13 PM" src="https://github.com/user-attachments/assets/658a6857-8bf2-4815-bfec-3ba8d2f637fa" />
-<img width="1440" alt="Screenshot 2025-04-14 at 8 07 42 PM" src="https://github.com/user-attachments/assets/01b3960b-4a01-4293-b489-90ff593d6c63" />
-<img width="1440" alt="Screenshot 2025-04-14 at 8 07 31 PM" src="https://github.com/user-attachments/assets/7846ccff-1fd2-432c-9ee9-0a2f9eff94b7" />
-
    ```
 11. **Deleted All Resources**:
    ```bash
@@ -59,6 +54,12 @@ Deploy and manage applications in a Kubernetes cluster using Minikube.
 
 ## Outcome
 Successfully deployed, exposed, and scaled an application on a local Minikube cluster.
+<img width="1440" alt="Screenshot 2025-04-14 at 8 17 21 PM" src="https://github.com/user-attachments/assets/f4b5fa70-98c5-4860-acef-2bb08258203b" />
+<img width="1440" alt="Screenshot 2025-04-14 at 8 17 13 PM" src="https://github.com/user-attachments/assets/31df7b54-2b66-4c26-9199-69e35f131986" />
+<img width="1440" alt="Screenshot 2025-04-14 at 8 07 42 PM" src="https://github.com/user-attachments/assets/598e90c1-4145-4a65-8a32-cb751758929c" />
+<img width="1440" alt="Screenshot 2025-04-14 at 8 07 31 PM" src="https://github.com/user-attachments/assets/6f097da5-a427-47f1-aee7-6d89854bc969" />
+
+
 
 ## Files Included
 - `deployment.yaml` – Kubernetes deployment configuration  
